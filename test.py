@@ -9,12 +9,6 @@ def summation(n1, n2):
 def subtraction(n1, n2):
 	return n1 - n2
 
-def functionwhat(n1, n2):
-	return n1 / n2
-
-def fuctionwhatt(n1, n2):
-	return n1 * n2
-
 def test():
 	print("Nammm")
 	
