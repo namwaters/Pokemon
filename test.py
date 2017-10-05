@@ -11,5 +11,8 @@ def subtraction(n1, n2):
 
 def functionwhat(n1, n2):
 	return n1 / n2
+
+def fuctionwhatt(n1, n2):
+	return n1 * n2
 	
 main(int(input(), int(input()))
